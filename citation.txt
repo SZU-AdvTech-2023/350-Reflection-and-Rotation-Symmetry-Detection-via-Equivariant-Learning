@@ -1,0 +1,7 @@
+@inproceedings{REPO350,
+    author = "Seo, Ahyun and Kim, Byungjin and Kwak, Suha and Cho, Minsu",
+    booktitle = "Proceedings of the IEEE/CVF conference on computer vision and pattern recognition",
+    pages = "9539--9548",
+    title = "{Reflection and Rotation Symmetry Detection via Equivariant Learning}",
+    year = "2022"
+}
