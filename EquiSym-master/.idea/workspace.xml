@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6dec3691-22b0-4bdb-b5e5-155a02ad4b05" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="EquiSym-master" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LRngyxcN4CInMSVFzBOgCTSKD7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\苏没没\Desktop\word\1class\1aaa毕业论文\EquiSym-master\draw" />
+      <recent name="C:\Users\苏没没\Desktop\word\1class\1aaa毕业论文\EquiSym-master\test\p" />
+      <recent name="C:\Users\苏没没\Desktop\word\1class\1aaa毕业论文\EquiSym-master" />
+      <recent name="C:\Users\苏没没\Desktop\word\1class\1aaa毕业论文\EquiSym-master\test" />
+      <recent name="C:\Users\苏没没\Desktop\word\1class\1aaa毕业论文\EquiSym-master\demo\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\苏没没\Desktop\word\1class\1aaa毕业论文\EquiSym-master\net" />
+      <recent name="C:\Users\苏没没\Desktop\word\1class\1aaa毕业论文\EquiSym-master" />
+      <recent name="C:\Users\苏没没\Desktop\word\1class\1aaa毕业论文\EquiSym-master\draw" />
+      <recent name="C:\Users\苏没没\Desktop\word\1class\1aaa毕业论文\EquiSym-master\draw\images_truth" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.0">
+    <configuration name="0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EquiSym-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="compute" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EquiSym-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/draw" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/draw/compute.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="draw_other" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EquiSym-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/draw" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/draw/draw_other.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="drawhough" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EquiSym-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/draw" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/draw/drawhough.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="visual_page (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EquiSym-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/draw" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/draw/visual_page.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.0" />
+        <item itemvalue="Python.visual_page (1)" />
+        <item itemvalue="Python.drawhough" />
+        <item itemvalue="Python.draw_other" />
+        <item itemvalue="Python.compute" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6dec3691-22b0-4bdb-b5e5-155a02ad4b05" name="Default Changelist" comment="" />
+      <created>1675842877749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675842877749</updated>
+      <workItem from="1675842886461" duration="9530000" />
+      <workItem from="1676208107079" duration="3673000" />
+      <workItem from="1676449409085" duration="9525000" />
+      <workItem from="1676598176755" duration="2850000" />
+      <workItem from="1677115376601" duration="16662000" />
+      <workItem from="1677414272776" duration="3006000" />
+      <workItem from="1677549401827" duration="12170000" />
+      <workItem from="1677588537443" duration="3701000" />
+      <workItem from="1677640876698" duration="8106000" />
+      <workItem from="1677740600185" duration="7786000" />
+      <workItem from="1678032839558" duration="6968000" />
+      <workItem from="1678069620973" duration="5660000" />
+      <workItem from="1678172222975" duration="792000" />
+      <workItem from="1678284954539" duration="5718000" />
+      <workItem from="1678795171897" duration="1357000" />
+      <workItem from="1678876083105" duration="1095000" />
+      <workItem from="1679462823322" duration="8979000" />
+      <workItem from="1679539350634" duration="1924000" />
+      <workItem from="1679765195049" duration="2000" />
+      <workItem from="1679998973363" duration="694000" />
+      <workItem from="1680079286494" duration="3440000" />
+      <workItem from="1680082746911" duration="7457000" />
+      <workItem from="1680165689400" duration="4000" />
+      <workItem from="1680194757821" duration="599000" />
+      <workItem from="1680198414998" duration="1545000" />
+      <workItem from="1680258580747" duration="92000" />
+      <workItem from="1680535626552" duration="2965000" />
+      <workItem from="1680591138890" duration="56000" />
+      <workItem from="1680707450182" duration="2807000" />
+      <workItem from="1680710365630" duration="2617000" />
+      <workItem from="1680896171591" duration="663000" />
+      <workItem from="1680928479975" duration="8712000" />
+      <workItem from="1681028360257" duration="31000" />
+      <workItem from="1681469150794" duration="2825000" />
+      <workItem from="1681487641613" duration="4730000" />
+      <workItem from="1681734428506" duration="747000" />
+      <workItem from="1681837861208" duration="173000" />
+      <workItem from="1681838481656" duration="1467000" />
+      <workItem from="1681903152617" duration="12796000" />
+      <workItem from="1681956314345" duration="1784000" />
+      <workItem from="1681974295445" duration="199000" />
+      <workItem from="1681978374537" duration="4604000" />
+      <workItem from="1682006603775" duration="3271000" />
+      <workItem from="1682046952633" duration="6148000" />
+      <workItem from="1682053392366" duration="26641000" />
+      <workItem from="1682146876818" duration="36513000" />
+      <workItem from="1682227475365" duration="2693000" />
+      <workItem from="1682249064291" duration="20577000" />
+      <workItem from="1682424978378" duration="4689000" />
+      <workItem from="1682498434061" duration="483000" />
+      <workItem from="1682592578228" duration="220000" />
+      <workItem from="1683035700419" duration="19154000" />
+      <workItem from="1683124629155" duration="6818000" />
+      <workItem from="1683207325474" duration="5164000" />
+      <workItem from="1683251335742" duration="2787000" />
+      <workItem from="1683302766541" duration="2357000" />
+      <workItem from="1683347902230" duration="3456000" />
+      <workItem from="1683448486988" duration="6648000" />
+      <workItem from="1685709864112" duration="472000" />
+      <workItem from="1686665372307" duration="884000" />
+      <workItem from="1692936675241" duration="151000" />
+      <workItem from="1692938195529" duration="132000" />
+      <workItem from="1693031512462" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="298" y="170" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1685709884048">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="298" y="170" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.720@0.0.1280.720" timestamp="1685709884048" />
+    <state x="421" y="119" key="FileChooserDialogImpl" timestamp="1692936776668">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="119" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1692936776668" />
+    <state width="1237" height="237" key="GridCell.Tab.0.bottom" timestamp="1686670767704">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="237" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1686670767704" />
+    <state width="1237" height="237" key="GridCell.Tab.0.center" timestamp="1686670767704">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="237" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1686670767704" />
+    <state width="1237" height="237" key="GridCell.Tab.0.left" timestamp="1686670767704">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="237" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1686670767704" />
+    <state width="1237" height="237" key="GridCell.Tab.0.right" timestamp="1686670767704">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="237" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1686670767704" />
+    <state x="337" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1692936684057">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="337" y="189" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1692936684057" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://C:/Program Files/Python38/Lib/site-packages/torch/nn/modules/module.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/EquiSym_master$houghtest.coverage" NAME="houghtest Coverage Results" MODIFIED="1680094131246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/code" />
+    <SUITE FILE_PATH="coverage/EquiSym_master$compute.coverage" NAME="compute Coverage Results" MODIFIED="1683452034914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/draw" />
+    <SUITE FILE_PATH="coverage/EquiSym_master$draw.coverage" NAME="draw Coverage Results" MODIFIED="1683352098685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/draw" />
+    <SUITE FILE_PATH="coverage/EquiSym_master$E2CNN.coverage" NAME="E2CNN Coverage Results" MODIFIED="1683044005749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn/code" />
+    <SUITE FILE_PATH="coverage/EquiSym_master$6_symmetry.coverage" NAME="6_symmetry Coverage Results" MODIFIED="1677556455335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/EquiSym_master$page_3.coverage" NAME="page_3 Coverage Results" MODIFIED="1681924708498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/draw" />
+    <SUITE FILE_PATH="coverage/EquiSym_master$draw_other.coverage" NAME="draw_other Coverage Results" MODIFIED="1683452098033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/draw" />
+    <SUITE FILE_PATH="coverage/EquiSym_master$3_with_grad.coverage" NAME="3_with_grad Coverage Results" MODIFIED="1676450515874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/EquiSym_master$net.coverage" NAME="net Coverage Results" MODIFIED="1682055293042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weights" />
+    <SUITE FILE_PATH="coverage/EquiSym_master$1111_hough.coverage" NAME="1111_hough Coverage Results" MODIFIED="1678075037741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/EquiSym_master$1_cv2.coverage" NAME="1_cv2 Coverage Results" MODIFIED="1681489193955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn/code" />
+    <SUITE FILE_PATH="coverage/EquiSym_master$drawhough.coverage" NAME="drawhough Coverage Results" MODIFIED="1683452304698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/draw" />
+    <SUITE FILE_PATH="coverage/EquiSym_master$compute_2.coverage" NAME="compute_2 Coverage Results" MODIFIED="1683348143719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/draw" />
+    <SUITE FILE_PATH="coverage/EquiSym_master$1111_test2.coverage" NAME="1111_test2 Coverage Results" MODIFIED="1680079608697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/EquiSym_master$1_test.coverage" NAME="1_test Coverage Results" MODIFIED="1683110759446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EquiSym_master$loss.coverage" NAME="loss Coverage Results" MODIFIED="1680709851477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/draw" />
+    <SUITE FILE_PATH="coverage/EquiSym_master$loss1.coverage" NAME="loss1 Coverage Results" MODIFIED="1682175372429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/draw" />
+    <SUITE FILE_PATH="coverage/EquiSym_master$1111_hough2.coverage" NAME="1111_hough2 Coverage Results" MODIFIED="1678796203016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/EquiSym_master$4_torch_load.coverage" NAME="4_torch_load Coverage Results" MODIFIED="1676599532991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/EquiSym_master$demo.coverage" NAME="demo Coverage Results" MODIFIED="1681838907688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EquiSym_master$1111_test.coverage" NAME="1111_test Coverage Results" MODIFIED="1678072742114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/EquiSym_master$page_4.coverage" NAME="page_4 Coverage Results" MODIFIED="1682259625688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/draw" />
+    <SUITE FILE_PATH="coverage/EquiSym_master$5_colormap.coverage" NAME="5_colormap Coverage Results" MODIFIED="1677117643227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/EquiSym_master$houghtest2.coverage" NAME="houghtest2 Coverage Results" MODIFIED="1680094556941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/code" />
+    <SUITE FILE_PATH="coverage/EquiSym_master$1111_houghP.coverage" NAME="1111_houghP Coverage Results" MODIFIED="1680082727643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/EquiSym_master$8_draw.coverage" NAME="8_draw Coverage Results" MODIFIED="1677588815712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/EquiSym_master$page.coverage" NAME="page Coverage Results" MODIFIED="1681922717079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/draw" />
+    <SUITE FILE_PATH="coverage/EquiSym_master$draw_show.coverage" NAME="draw_show Coverage Results" MODIFIED="1682283936264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/draw" />
+    <SUITE FILE_PATH="coverage/EquiSym_master$10_SIFT.coverage" NAME="10_SIFT Coverage Results" MODIFIED="1681487797563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/code" />
+    <SUITE FILE_PATH="coverage/EquiSym_master$visual_page__1_.coverage" NAME="visual_page (1) Coverage Results" MODIFIED="1683455797819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/draw" />
+    <SUITE FILE_PATH="coverage/EquiSym_master$2_torch_nn.coverage" NAME="2_torch_nn Coverage Results" MODIFIED="1676480163135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/EquiSym_master$1111_test3.coverage" NAME="1111_test3 Coverage Results" MODIFIED="1678072685545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/EquiSym_master$0.coverage" NAME="0 Coverage Results" MODIFIED="1686665578493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EquiSym_master$9_E2.coverage" NAME="9_E2 Coverage Results" MODIFIED="1680933946836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/code" />
+    <SUITE FILE_PATH="coverage/EquiSym_master$page_2.coverage" NAME="page_2 Coverage Results" MODIFIED="1681923270731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/draw" />
+    <SUITE FILE_PATH="coverage/EquiSym_master$page_5.coverage" NAME="visual_page Coverage Results" MODIFIED="1683451759694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/draw" />
+    <SUITE FILE_PATH="coverage/EquiSym_master$00000.coverage" NAME="00000 Coverage Results" MODIFIED="1683211186224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EquiSym_master$7_cv2line.coverage" NAME="7_cv2line Coverage Results" MODIFIED="1677641005889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/EquiSym_master$1111_houghP__1_.coverage" NAME="1111_houghP (1) Coverage Results" MODIFIED="1680088809824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/code" />
+  </component>
+</project>
